@@ -1,4 +1,11 @@
 # Changelog
+- 2018-9-1
+  - `Clover`更新至`4664`
+  - 基于`CLOVER_v2.4k_r4664`更新所有`.efi`驱动
+  - `Lilu`更新至`1.2.6`
+  - `AppleALC`更新至`1.3.1`
+  - `USBInjectAll`更新至`2018-08-22`
+
 - 2018-7-18
   - 合并`Whatevergreen`、`IntelGraphicsFixup`、`Shiki`、`NvidiaGraphicsFixup`
   - `Clover`更新至`4606`
